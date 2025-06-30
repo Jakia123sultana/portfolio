@@ -23,9 +23,7 @@ This site showcases my web development journey, projects, skills, and contact in
 - **Framework:** React + Vite  
 - **Styling:** Tailwind CSS, DaisyUI  
 - **Icons:** Lucide React  
-- **Hosting:** [Surge.sh](https://surge.sh/)
 
----
 
-## 📁 Folder Structure
+
 
