@@ -1,12 +1,31 @@
-# React + Vite
+# 🌐 Jakia Sultana – Developer Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal developer portfolio website!  
+This site showcases my web development journey, projects, skills, and contact information in a clean, modern, and responsive design.
 
-Currently, two official plugins are available:
+🔗 **Live Site:** [jakia-protfolio.surge.sh](https://jakia-protfolio.surge.sh/)
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## ✨ Features
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- 💻 **Hero Section** – Catchy intro with name, role, and call-to-action
+- 👩‍💻 **About Section** – Brief background, development journey, and goals
+- 🛠️ **Skills Showcase** – Highlighted areas: Web Development, UI/UX, Team Projects
+- 📂 **Projects Section** – Interactive cards with project info (optional)
+- 📞 **Contact Section** – Easy access to get in touch
+- 📱 **Fully Responsive** – Optimized for all devices
+
+---
+
+## 🛠️ Tech Stack
+
+- **Framework:** React + Vite  
+- **Styling:** Tailwind CSS, DaisyUI  
+- **Icons:** Lucide React  
+- **Hosting:** [Surge.sh](https://surge.sh/)
+
+---
+
+## 📁 Folder Structure
+
